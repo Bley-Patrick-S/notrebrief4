@@ -24,7 +24,7 @@ nav i{
 }
 nav h2{
     color: #213e4e;
-    font-size: 2em;
+    font-size: 1.5em;
     margin-top: 0.3em;
     margin-bottom: 0.3em;
 }
@@ -33,15 +33,12 @@ nav h2{
     flex-direction: column;
     justify-content: center;
 }
-.share a i:hover {
-    color: #213e4e;
-}
-.share a i:hover + h2 {
-    color: #fb8a9b;
-}
+.share:hover i {
+    color: #213e4e; /* Couleur de l'icône <i> lorsqu'une div .share est survolée */
+  }
 
-a h2:hover {
-    color: #fb8a9b;
+.share:hover h2 {
+    color: #fb8a9b; /* Couleur du titre <h2> lorsqu'une div .share est survolée */
 }
 
 @media (max-width: 960px) {
