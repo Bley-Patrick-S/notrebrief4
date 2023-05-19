@@ -9,6 +9,9 @@
 node_modules/
 
 package-lock.json
+jspm_packages/
+.webpack/
+
 ### Firebase Patch ###
 .runtimeconfig.json
 .firebase/
