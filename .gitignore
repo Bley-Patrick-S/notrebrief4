@@ -6,6 +6,9 @@
 **/node_modules/*
 **/.firebaserc
 
+node_modules/
+
+package-lock.json
 ### Firebase Patch ###
 .runtimeconfig.json
 .firebase/
