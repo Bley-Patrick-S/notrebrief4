@@ -59,7 +59,7 @@ nav h2{
 
 /* Grande image header */
 .back{
-    background-image: url(img/background.jpg);
+    background-image: url(/img/background.jpg);
     height: 40em;
     display: flex;
     flex-direction: column;
