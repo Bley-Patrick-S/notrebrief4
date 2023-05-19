@@ -22,12 +22,6 @@ nav i{
     color: #fb8b9b;
     font-size: 2em;
 }
-i:hover {
-    color: #213e4e;
-}
-nav h2:hover {
-    color: #fb8a9b;
-}
 nav h2{
     color: #213e4e;
     font-size: 2em;
@@ -45,6 +39,7 @@ nav h2{
 .share a i:hover + h2 {
     color: #fb8a9b;
 }
+
 a h2:hover {
     color: #fb8a9b;
 }

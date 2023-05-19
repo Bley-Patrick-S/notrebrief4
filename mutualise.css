@@ -22,15 +22,10 @@ nav i{
     color: #fb8b9b;
     font-size: 2em;
 }
-i:hover {
-    color: #213e4e;
-}
-nav h2:hover {
-    color: #fb8a9b;
-}
+
 nav h2{
     color: #213e4e;
-    font-size: 2em;
+    font-size: 1.5em;
     margin-top: 0.3em;
     margin-bottom: 0.3em;
 }
