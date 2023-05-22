@@ -1,4 +1,4 @@
- {
+{
   "name": "brief_4",
   "version": "1.0.0",
   "description": "",
@@ -15,6 +15,7 @@
     "webpack-cli": "^5.1.1"
   },
   "dependencies": {
-    "firebase": "^9.22.0"
+    "firebase": "^9.22.0",
+    "firebase-admin": "^11.8.0"
   }
 }
